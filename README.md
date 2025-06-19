@@ -17,7 +17,7 @@ This repository contains the **project report** and **visualization scripts** (`
 
 ```bash
 sentinel-report/
-├── report.pdf               # Final project report (PDF)
+├── sentinel report.pdf      # Final project report (PDF)
 ├── app.py                   # Python visualization backend (e.g., Flask/Dash)
 ├── dashboard.py             # Python module for plotting/logic
 └── README.md                # This file
